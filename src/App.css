@@ -96,6 +96,16 @@ header {
     justify-content: space-between;
 }
 
+.navLink {
+    color: inherit;
+    /* font-weight: var(--fw-bold); */
+    text-decoration: none; 
+}
+
+.navLink:hover {
+    color: var(--clr-accent);
+}
+
 /* ----------About page styles---------- */
 
 .aboutHeaderContainer {

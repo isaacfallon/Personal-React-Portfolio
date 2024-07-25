@@ -34,10 +34,10 @@ const Ul = styled.ul`
 const RightNav = ({ open }) => {
     return (
         <Ul open={open}>
-            <li><Link to="/">About</Link></li>
-            <li><Link to="/Portfolio">Portfolio</Link></li>
-            <li><Link to="/Contact">Contact</Link></li>
-            <li><Link to="https://www.linkedin.com/in/isaacfallon/" target="_blank">Resume</Link></li>
+            <li><Link to="/" className="navLink">About</Link></li>
+            <li><Link to="/Portfolio" className="navLink">Portfolio</Link></li>
+            <li><Link to="/Contact" className="navLink">Contact</Link></li>
+            <li><Link to="https://www.linkedin.com/in/isaacfallon/" target="_blank" className="navLink">Resume</Link></li>
         </Ul>
     )
 }

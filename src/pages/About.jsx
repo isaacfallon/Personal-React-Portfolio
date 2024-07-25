@@ -18,7 +18,7 @@ export default function About() {
         </p>
         <br></br>
         <p>
-          Please don&apos;t hestitate to reach out if you have any questions or just want to chat!
+          Please don&apos;t hesitate to reach out if you have any questions or just want to chat!
         </p>
       </div>
     </>
