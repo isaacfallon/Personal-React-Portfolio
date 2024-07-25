@@ -13,7 +13,7 @@ const StyledBurger = styled.div`
     right: 20px;
     cursor: pointer;
     
-    z-index: 20;
+    z-index: 200;
     display: none;
 
     @media (max-width: 820px) {

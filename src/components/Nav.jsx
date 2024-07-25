@@ -7,10 +7,8 @@ export default function Nav() {
 
   return (
     <header>
-      <h1><Link to="/">IF</Link></h1>
-      <nav className="nav">
-        <Burger />
-      </nav>
+      <h1><Link to="/">IFallon</Link></h1>
+        <Burger />  
     </header>
   )
 }

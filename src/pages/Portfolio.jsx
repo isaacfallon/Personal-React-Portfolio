@@ -1,31 +1,18 @@
-import isaacPhoto from '../assets/IF-photo.jpg';
+import React from "react";
+
+import Projects from '../components/Projects'
 
 export default function Portfolio() {
   return (
-    <div className="headingSection">
-      <h2>My <strong>Portfolio</strong></h2>
-      <p className="section__subtitle section__subtitle--intro">For more check my GitHub.</p>
-
-      <div className="portfolio">
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
-        <a href="#" className="portfolio__item">
-          <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="portfolio__img" />
-        </a>
+    <>
+      <div className="portfolioHeaderContainer">
+        <h2>My <strong>Portfolio</strong></h2>
+        <h3 className="sectionSubtitle sectionSubtitlePortfolio">See more on <a href="https://github.com/isaacfallon" target="blank_">my GitHub.</a></h3>
       </div>
-    </div>
+
+      <div className="portfolioContainer">
+        <Projects />
+      </div>
+    </>
   );
 }
