@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Tech Blog",
+        "imgSrc": "Tech-Blog-Project_SC.png",
+        "description": "Full stack blog application allowing users to sign up and discuss topics together.",
+        "demo": "https://github.com/isaacfallon/14-Challenge-Tech-Blog",
+        "source": "https://github.com/isaacfallon/14-Challenge-Tech-Blog"
+    },
+    {
+        "title": "Movie Club",
+        "imgSrc": "Movie-Club-Project_SC.png",
+        "description": "Full-stack community-focused movie reviewing application allowing users to sign up and contribute.",
+        "demo": "https://github.com/isaacfallon/Movie-Club-Project-2",
+        "source": "https://github.com/isaacfallon/Movie-Club-Project-2"
+    },
+    {
+        "title": "Live Text Editor",
+        "imgSrc": "Text-Editor-Project_SC.png",
+        "description": "Live text editor Progressive Web Application (PWA). Users can download to use offline.",
+        "demo": "https://github.com/isaacfallon/19-Challenge-Text-Editor",
+        "source": "https://github.com/isaacfallon/19-Challenge-Text-Editor"
+    },
+    {
+        "title": "Social Network-API",
+        "imgSrc": "Social-Media-API-Project_SC.png",
+        "description": "Social network API back-end where users can share their thoughts, add reactions and create a friend list.",
+        "demo": "https://github.com/isaacfallon/18-Challenge-Social-Network-API",
+        "source": "https://github.com/isaacfallon/18-Challenge-Social-Network-API"
+    },
+    {
+        "title": "SQL Employee DB",
+        "imgSrc": "SQL-Employee-Tracker-Project_SC.png",
+        "description": "SQL built employee tracker application to store and update employee data in a useful database format.",
+        "demo": "https://github.com/isaacfallon/12-Challenge-SQL-Employee-Tracker",
+        "source": "https://github.com/isaacfallon/12-Challenge-SQL-Employee-Tracker"
+    },
+    {
+        "title": "Weather & Wiki",
+        "imgSrc": "Weather-Wiki-Project_SC.png",
+        "description": "A front-end application to pull relevant weather and wikipedia content in one convenient dashboard.",
+        "demo": "https://github.com/isaacfallon/Weather-Driven-Wikipedia-Content-Explorer",
+        "source": "https://github.com/isaacfallon/Weather-Driven-Wikipedia-Content-Explorer"
+    }
+]
