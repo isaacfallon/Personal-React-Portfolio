@@ -28,6 +28,9 @@ const Ul = styled.ul`
         li {
             color: white;
         }
+            li:hover {
+            color: black;
+        }
     }
 `
 
