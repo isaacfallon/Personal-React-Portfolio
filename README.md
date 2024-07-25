@@ -4,15 +4,21 @@
         
 ## Description
             
-This project is a...
+This project is a portfolio website built using the [React](https://react.dev/) Javascript library and deployed using [Netlify](https://www.netlify.com/). 
 
-I built this application as a way to...
+I built this application as a way to showcase information about myself and my development skills alongside  a way for other users to contact me. 
 
-By completing this project, I now understand...
+By completing this project, I now understand the nuances of how to create a React application by creating separate components, pages and utilities to then join them together in an efficient manner.
 
-### Screenshots of the application:
+### Screenshots of the deployed application:
 
-- [Screenshots here]
+- The website's 'About' page displayed on a larger desktop screen (1200px width or greater):
+
+![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-DESKTOP_SC.png)
+
+- The website's 'About' page displayed on a mobile screen view (600px to 1200px in width):
+
+![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-MOBILE_SC.png)
             
 ## Table of Contents
             
@@ -35,7 +41,7 @@ You can do both by entering the following on one line: `npm i; npx vite`.
 
 To simply use the deployed application, visit a link to the website deployed on Netlify here:
 
-- [Link to deployed application on Netlify]
+- https://isaacfallon.netlify.app/
 
 Otherwise, if you would prefer to host the application locally, follow the steps in [Installation](#installation). 
             
@@ -65,7 +71,13 @@ SOFTWARE.
             
 ## Contributing
 
+I referenced parts of the following tutorial from user 'Code Complete' for how to add Project content a JSON object and add images using a custom `getImageUrl` function found in utils.js: 
 
+- https://www.youtube.com/watch?v=YQCDUJ6hhNY
+
+I also referenced the following tutorial from user 'FullStack Mastery' to help fix several bugs with the hamburger menu and incorporate it properly as a React component:
+
+- https://www.youtube.com/watch?v=GGkBwpxV7AI
             
 ## Tests
 
