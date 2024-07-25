@@ -7,7 +7,7 @@ export default function Nav() {
 
   return (
     <header>
-      <h1><Link to="/">IFallon</Link></h1>
+      <h1><Link to="/" className="navLink">IFallon</Link></h1>
         <Burger />  
     </header>
   )

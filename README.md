@@ -14,11 +14,11 @@ By completing this project, I now understand the nuances of how to create a Reac
 
 - The website's 'About' page displayed on a larger desktop screen (1200px width or greater):
 
-![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-DESKTOP_SC.png)
+![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-DESKTOP_SC2.png)
 
 - The website's 'About' page displayed on a mobile screen view (600px to 1200px in width):
 
-![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-MOBILE_SC.png)
+![Screenshot of deployed portfolio website's 'About' page on larger desktop screens](./assets/Deployed-Portfolio-App-MOBILE_SC2.png)
             
 ## Table of Contents
             
