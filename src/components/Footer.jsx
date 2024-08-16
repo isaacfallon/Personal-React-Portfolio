@@ -5,12 +5,12 @@ export default function Footer() {
     <footer className="footer">
     <ul className="social-list">
         <li className="social-list__item">
-            <a className="social-list__link" href="https://github.com/isaacfallon">
+            <a className="social-list__link" href="https://github.com/isaacfallon" target="_blank" rel="noreferrer">
                 <i className="fa-brands fa-github"></i>
             </a>
         </li>
         <li className="social-list__item">
-            <a className="social-list__link" href="https://www.linkedin.com/in/isaacfallon/">
+            <a className="social-list__link" href="https://www.linkedin.com/in/isaacfallon/" target="_blank" rel="noreferrer">
                 <i className="fa-brands fa-linkedin"></i>
             </a>
         </li>
