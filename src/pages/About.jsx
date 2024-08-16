@@ -1,5 +1,7 @@
 import isaacPhoto from '../assets/IF-photo.jpg';
 
+import { Link, useLocation } from 'react-router-dom';
+
 export default function About() {
   return (
     <>
@@ -9,16 +11,16 @@ export default function About() {
         <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="aboutImg"></img>
       </div>
       <div className="aboutText">
-        <p>
-          Welcome to my site! I&apos;m a full stack web-developer based in Adelaide, Australia.
+        <p className="regularBold">
+          I&apos;ve spent the last five years immersing myself in the world of digital content, crafting engaging experiences for a wide range of audiences.
         </p>
         <br></br>
         <p>
-          I have over five years experience creating engaging digital content across all mediums for internal and external audiences. Although my background is in filmmaking and communications, my current focus is MERN stack development.
+          My filmmaking and communications background give me a keen eye for storytelling and design which I now channel into building dynamic web applications using the MERN stack.
         </p>
         <br></br>
         <p>
-          Please don&apos;t hesitate to reach out if you have any questions or just want to chat!
+          Please don&apos;t hesitate to reach out at the links below or using <Link to="/Contact">my contact page.</Link>
         </p>
       </div>
     </>
