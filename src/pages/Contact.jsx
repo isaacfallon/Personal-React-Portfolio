@@ -38,47 +38,47 @@ export default function Contact() {
 
   return (
     <>
-    <div className="contactHeaderContainer">
-    <h2><strong>Contact</strong> me</h2>
-    <h3 className="sectionSubtitle sectionSubtitlePortfolio">Using the form below:</h3>
-  </div>
-
-    <form className="form" onSubmit={handleFormSubmit}>
-      <div className="input-container">
-        <input
-          value={email}
-          name="email"
-          onChange={handleInputChange}
-          type="email"
-          placeholder="email"
-          className="input"
-        />
-      </div>
-      <div className="input-container">
-        <input
-          // value={userName}
-          name="name"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="name"
-          className="input"
-        />
-      </div>
-      <div className="input-container">
-      <input
-        // value={message}
-        name="message"
-        onChange={handleInputChange}
-        type="text"
-        placeholder="message"
-        className="input"
-      />
+      <div className="contactHeaderContainer">
+        <h2><strong>Contact</strong> me</h2>
+        <h3 className="sectionSubtitle sectionSubtitlePortfolio">Using the form below:</h3>
       </div>
 
-      <button type="submit">
-        Submit
-      </button>
-    </form>
+      <form className="form" onSubmit={handleFormSubmit}>
+        <div className="input-container">
+          <input
+            value={email}
+            name="email"
+            onChange={handleInputChange}
+            type="email"
+            placeholder="email"
+            className="input"
+          />
+        </div>
+        <div className="input-container">
+          <input
+            // value={userName}
+            name="name"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="name"
+            className="input"
+          />
+        </div>
+        <div className="input-container">
+          <input
+            // value={message}
+            name="message"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="message"
+            className="input"
+          />
+        </div>
+
+        <button type="submit">
+          Submit
+        </button>
+      </form>
     </>
   );
 }
