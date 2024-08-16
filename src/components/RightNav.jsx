@@ -40,7 +40,7 @@ const RightNav = ({ open }) => {
             <li><Link to="/" className="navLink">About</Link></li>
             <li><Link to="/Portfolio" className="navLink">Portfolio</Link></li>
             <li><Link to="/Contact" className="navLink">Contact</Link></li>
-            <li><Link to="https://www.linkedin.com/in/isaacfallon/" target="_blank" className="navLink">Resume</Link></li>
+            <li><Link to="https://docs.google.com/document/d/17vvr6TH1cCYH6X7UlXOfqVydffeuRaeHAeJ2JNAC2aI/edit?usp=sharing" target="_blank" className="navLink">Resume</Link></li>
         </Ul>
     )
 }

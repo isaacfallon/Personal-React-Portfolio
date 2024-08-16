@@ -15,8 +15,8 @@ export default function Projects() {
             <h3 className="projectTitle">{project.title}</h3>
             <p className="projectDesc">{project.description}</p>
             <div className="projectLinks">
-              <a href={project.demo}>Demo</a>
-              <a href={project.source}>Source</a>
+              <a href={project.demo} target="_blank" rel="noreferrer">Demo</a>
+              <a href={project.source} target="_blank" rel="noreferrer">Source</a>
             </div>
           </div>
         )
