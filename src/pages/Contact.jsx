@@ -44,9 +44,7 @@ export default function Contact() {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_hbmo53g', 'template_h2drr1c', form.current, {
-        publicKey: 'LqXHNdzPFN42y_9KU',
-      })
+      .sendForm('service_hbmo53g', 'template_h2drr1c', form.current, 'LqXHNdzPFN42y_9KU')
       .then(
         () => {
           console.log('SUCCESS!');
