@@ -2,21 +2,14 @@
     {
         "title": "Keyboard Warriors",
         "imgSrc": "Keyboard-Warriors-Project_SC.png",
-        "description": "MERN-stack typing test which analyses a user's typing proficiency and reaction speed.",
+        "description": "Challenge your typing skills and get data-driven insights in a fun 'gamified' way.",
         "demo": "https://keyboardwarriors.site/",
         "source": "https://github.com/isaacfallon/Project-3-Keyboard-Warriors"
     },
     {
-        "title": "Tech Blog",
-        "imgSrc": "Tech-Blog-Project_SC.png",
-        "description": "Full stack blog application allowing users to sign up and discuss topics together.",
-        "demo": "https://isaac-fallon-14-challenge-tech-blog.onrender.com/",
-        "source": "https://github.com/isaacfallon/14-Challenge-Tech-Blog"
-    },
-    {
         "title": "SQL Employee DB",
         "imgSrc": "SQL-Employee-Tracker-Project_SC.png",
-        "description": "SQL built employee tracker application to store and update employee data in a useful database format.",
+        "description": "Store and update useful employee data in this user-friendly SQL employee tracker.",
         "demo": "https://drive.google.com/file/d/1B18A_t_GiyjzOOwG9Y9XMUJJuH0E3UwJ/view",
         "source": "https://github.com/isaacfallon/12-Challenge-SQL-Employee-Tracker"
 
@@ -24,21 +17,29 @@
     {
         "title": "Movie Club",
         "imgSrc": "Movie-Club-Project_SC.png",
-        "description": "Full-stack community-focused movie reviewing application allowing users to sign up and contribute.",
+        "description": "Share your thoughts about movies among friends with this community-focused movie discussion platform.",
         "demo": "https://movie-club-project-2.onrender.com",
         "source": "https://github.com/isaacfallon/Movie-Club-Project-2"
     },
     {
+        "title": "Tech Blog",
+        "imgSrc": "Tech-Blog-Project_SC.png",
+        "description": "Discuss all things tech with people all over the world using this engaging blogging website.",
+        "demo": "https://drive.google.com/file/d/1c32w35f-MP1BgwWfcTk4s8tSBrYJLgwf/view",
+        "source": "https://github.com/isaacfallon/14-Challenge-Tech-Blog"
+    },
+
+    {
         "title": "Social Network-API",
         "imgSrc": "Social-Media-API-Project_SC.png",
-        "description": "Social network API back-end where users can share their thoughts, add reactions and create a friend list.",
+        "description": "Contribute to discussions and add friends using this Social network API back-end platform.",
         "demo": "https://drive.google.com/file/d/1OnQCVO41VEYPSUiV6ilflCNClgGyriBd/view?usp=sharing",
         "source": "https://github.com/isaacfallon/18-Challenge-Social-Network-API"
     },
     {
         "title": "Weather & Wiki",
         "imgSrc": "Weather-Wiki-Project_SC.png",
-        "description": "A front-end application to pull relevant weather and wikipedia content in one convenient dashboard.",
+        "description": "Pull in relevant weather and wikipedia content for your city of choice in one convenient dashboard.",
         "demo": "https://isaacfallon.github.io/Weather-Driven-Wikipedia-Content-Explorer/",
         "source": "https://github.com/isaacfallon/Weather-Driven-Wikipedia-Content-Explorer"
     }

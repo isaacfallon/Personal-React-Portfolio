@@ -134,7 +134,7 @@ header {
 
 .sectionSubtitle {
     margin: 0;
-    font-size: var(--fs-h3);
+    font-size: 1.75em;
     color: white;
 
 }

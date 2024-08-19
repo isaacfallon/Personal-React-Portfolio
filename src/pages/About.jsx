@@ -7,7 +7,7 @@ export default function About() {
     <>
       <div className="aboutHeaderContainer">
         <h2>Hi, I&apos;m <strong>Isaac Fallon</strong></h2>
-        <h3 className="sectionSubtitle sectionSubtitleAbout">`full-stack-dev`</h3>
+        <h3 className="sectionSubtitle sectionSubtitleAbout">Web Dev & Digital Comms</h3>
         <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="aboutImg"></img>
       </div>
       <div className="aboutText">
