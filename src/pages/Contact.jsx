@@ -3,6 +3,10 @@ import { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import React, { useRef } from 'react';
 
+import { SvelteToast, toast } from '@zerodevx/svelte-toast/dist'
+
+
+
 export default function Contact() {
 
   // const [userName, setUserName] = useState('');
@@ -48,6 +52,20 @@ export default function Contact() {
       .then(
         () => {
           console.log('SUCCESS!');
+          const app = new SvelteToast({
+            target: document.body,
+            props: {
+              options: {
+              }
+            }
+          })
+          toast.push('Message successfully sent!', {
+            theme: {
+              '--toastColor': 'mintcream',
+              '--toastBackground': 'rgba(72,187,120,0.9)',
+              '--toastBarBackground': '#2F855A'
+            }
+          })
           e.target.reset();
         },
         (error) => {
