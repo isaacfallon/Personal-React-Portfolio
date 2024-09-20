@@ -20,7 +20,7 @@ export default function About() {
         </p>
         <br></br>
         <p>
-          Please don&apos;t hesitate to reach out at the links below or using <Link to="/Contact">my contact page.</Link>
+          Please don&apos;t hesitate to reach out at the links below or using <Link to="/Contact" className="homeLink">my contact page.</Link>
         </p>
       </div>
     </>

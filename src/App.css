@@ -151,6 +151,14 @@ header {
     font-size: 1.2em;
 }
 
+.homeLink {
+    color: var(--clr-accent);
+}
+
+.homeLink:hover {
+    color: inherit;
+}
+
 /* ----------Portfolio page styles---------- */
 
 .portfolioHeaderContainer {
