@@ -3,6 +3,7 @@
         "title": "Keyboard Warriors",
         "imgSrc": "Keyboard-Warriors-Project_SC2.png",
         "description": "Challenge and improve your typing skills by getting data-driven insights you can save to your own profile.",
+        "skills": ["React", "Tailwind CSS", "MongoDB", "GraphQL API"],
         "demo": "https://keyboardwarriors.site/",
         "source": "https://github.com/isaacfallon/Project-3-Keyboard-Warriors"
     },
@@ -10,6 +11,7 @@
         "title": "SQL Employee DB",
         "imgSrc": "SQL-Employee-Tracker-Project_SC.png",
         "description": "Store and update useful employee data in this user-friendly SQL employee tracker.",
+        "skills": ["PostgreSQL", "Node.js", "Inquirer"],
         "demo": "https://drive.google.com/file/d/1B18A_t_GiyjzOOwG9Y9XMUJJuH0E3UwJ/view",
         "source": "https://github.com/isaacfallon/12-Challenge-SQL-Employee-Tracker"
 
@@ -18,13 +20,15 @@
         "title": "Movie Club",
         "imgSrc": "Movie-Club-Project_SC.png",
         "description": "Share your thoughts about movies among friends with this community-focused movie discussion platform.",
+        "skills": ["Node.js", "Express.js", "Handlebars.js", "Sequelize"],
         "demo": "https://movie-club-project-2.onrender.com",
         "source": "https://github.com/isaacfallon/Movie-Club-Project-2"
     },
     {
         "title": "Tech Blog",
         "imgSrc": "Tech-Blog-Project_SC.png",
-        "description": "Discuss all things tech with people all over the world using this engaging blogging website.",
+        "description": "Discuss all things tech with people from all over the world using this engaging blogging website.",
+        "skills": ["Node.js", "Express.js", "Handlebars.js", "Sequelize"],
         "demo": "https://drive.google.com/file/d/1c32w35f-MP1BgwWfcTk4s8tSBrYJLgwf/view",
         "source": "https://github.com/isaacfallon/14-Challenge-Tech-Blog"
     },
@@ -33,6 +37,7 @@
         "title": "Social Network-API",
         "imgSrc": "Social-Media-API-Project_SC.png",
         "description": "Contribute to discussions and add friends using this Social network API back-end platform.",
+        "skills": ["Express.js", "Mongoose", "MongoDB", "Insomnia"],
         "demo": "https://drive.google.com/file/d/1OnQCVO41VEYPSUiV6ilflCNClgGyriBd/view?usp=sharing",
         "source": "https://github.com/isaacfallon/18-Challenge-Social-Network-API"
     },
@@ -40,7 +45,8 @@
         "title": "Weather & Wiki",
         "imgSrc": "Weather-Wiki-Project_SC.png",
         "description": "Pull in relevant weather and wikipedia content for your city of choice in one convenient dashboard.",
-        "demo": "https://isaacfallon.github.io/Weather-Driven-Wikipedia-Content-Explorer/",
+        "skills": ["JavaScript ES6+", "Bulma CSS", "DayJS"],
+        "demo": "https://isaacfallon.github.io/CityWeather-Insight/",
         "source": "https://github.com/isaacfallon/Weather-Driven-Wikipedia-Content-Explorer"
     }
 ]

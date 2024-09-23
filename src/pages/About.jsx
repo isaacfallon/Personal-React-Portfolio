@@ -7,7 +7,7 @@ export default function About() {
     <>
       <div className="aboutHeaderContainer">
         <h2>Hi, I&apos;m <strong>Isaac Fallon</strong></h2>
-        <h3 className="sectionSubtitle sectionSubtitleAbout">Web Dev & Digital Comms</h3>
+        <h3 className="sectionSubtitle sectionSubtitleAbout">Digital Comms & Web Dev</h3>
         <img src={isaacPhoto} alt="A headshot photo of Isaac Fallon" className="aboutImg"></img>
       </div>
       <div className="aboutText">
@@ -16,7 +16,7 @@ export default function About() {
         </p>
         <br></br>
         <p>
-          My filmmaking and communications background give me a keen eye for storytelling and design which I now channel into building dynamic web applications using the MERN stack.
+          My filmmaking and communications background give me a keen eye for storytelling and design which I now also channel into building dynamic web applications using the MERN stack.
         </p>
         <br></br>
         <p>
