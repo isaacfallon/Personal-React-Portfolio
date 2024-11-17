@@ -17,12 +17,12 @@
 
     },
     {
-        "title": "Movie Club",
-        "imgSrc": "Movie-Club-Project_SC.png",
-        "description": "Share your thoughts about movies among friends with this community-focused movie discussion platform.",
-        "skills": ["Node.js", "Express.js", "Handlebars.js", "Sequelize"],
-        "demo": "https://movie-club-project-2.onrender.com",
-        "source": "https://github.com/isaacfallon/Movie-Club-Project-2"
+        "title": "Kanban Task Board",
+        "imgSrc": "Kanban-Task-Board.png",
+        "description": "Stay organized and on schedule with this color-coded, deadline-focused kanban board tracker.",
+        "skills": ["JavaScript", "Bootstrap", "jQuery", "Day.js"],
+        "demo": "https://isaacfallon.github.io/Kanban-Task-Board/",
+        "source": "https://github.com/isaacfallon/Kanban-Task-Board/"
     },
     {
         "title": "Tech Blog",
